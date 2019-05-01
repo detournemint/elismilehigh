@@ -14,6 +14,15 @@ header li {
   text-align: center;
 }
 
+#menu {
+  text-align: center;
+}
+
+.menu-image{
+  width: 50%;
+  length: 50%;
+}
+
 body {
   background-image: url('background.jpg');
 }
